@@ -1,0 +1,25 @@
+				Java 
+
+Java is a programming language and platform independent
+James Gosling is the father of Java
+Java platforms 
+	1.Java SE - standard
+	2.Java EE - Servelts,WebServices,JSP etc..
+	3.Java ME - micro platform to develop mobile 	apps
+	3.JavaFx  - rich internet applications
+Features of java : 
+	1.Simple
+	2.Object-Oriented
+	3.Protable
+	4.Platform independent
+	5.Secured
+	6.Robust
+	7.Architecture Neutral
+	8.Interpreted
+	9.High performance
+	10.Multithreaded
+	11.Distributed
+	12.Dynamic
+
+
+
